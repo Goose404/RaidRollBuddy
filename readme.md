@@ -1,9 +1,9 @@
 Raid Roll Buddy 1.0.0
 ===
 
-Development discontinued. For a more comprehensive add-on, check out https://github.com/FSuhas/LootBlare
+For a more comprehensive version and a "Roll for" add-on integration, check out https://github.com/FSuhas/LootBlare
 
-RaidRollBuddy is a createt for TurtleWoW.
+RaidRollBuddy for TurtleWoW is a more lightweight approach.
 It helps with rolling for loot in raids when the loot distribution is MS > OS.
 When a single uncommon+ item is announced as Raidwarning it opens a window listing the rolls, provides buttons for rolling, and displays the item being rolled for.
 
